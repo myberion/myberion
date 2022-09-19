@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "myberion-app": "apps/myberion-app",
-    "myberion-app-e2e": "apps/myberion-app-e2e"
+    "myberion-app-e2e": "apps/myberion-app-e2e",
+    "ngx-test-utils": "libs/ngx-test-utils"
   }
 }
